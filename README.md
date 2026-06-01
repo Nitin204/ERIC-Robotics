@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Full Name** | Nitin |
-| **Contact Number** | +91-XXXXXXXXXX |
-| **Email ID** | your@email.com |
-| **GitHub Username** | your-github-username |
+| **Full Name** | Nitin Gorakh Katore |
+| **Contact Number** |7887782951|
+| **Email ID** | nitinkatore686@email.com |
+| **GitHub Username** | https://github.com/Nitin204 |
 
 ---
 
