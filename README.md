@@ -1,4 +1,4 @@
-## Author Details
+
 
 | Field | Value |
 |---|---|
